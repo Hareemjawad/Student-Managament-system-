@@ -4,8 +4,11 @@ Built by modeling the domain through entity identification and relationship mapp
 What the project covers
 
 Entity Relationship Diagram covering 1:N, M:N, and 1:1 relationship types
+
 Schema implementation in SQL Server with primary keys, foreign keys, and referential integrity constraints
+
 Multi-table JOIN queries, aggregate analytics, and DML operations
+
 Custom SQL View (vwStudentPerformance) consolidating marks, attendance rates, and department data into a single analytics layer
 
 Tech Stack
